@@ -14,4 +14,6 @@ Gradle 为Java（JVM）世界提供快速构建的工具。提供如下功能：
 * 一个丰富的域模型描述你的构建
 
 # 1.1. About this user guide 关于本用户指南
-本指南如同 Gradle 一样不便的再更新，如有勘误或者改正之处，请给本指南更多建议，可以访问[Gradle web site](http://www.gradle.org/contribute)
+本指南如同 Gradle 一样不断的再更新，如有勘误或者改正之处，请给本指南更多建议，可以访问[Gradle web site](http://www.gradle.org/contribute)
+
+*译者注：对于本翻译如有勘误或者改正之处，[点此](https://github.com/waylau/Gradle-2-User-Guide/issues)提问。*
