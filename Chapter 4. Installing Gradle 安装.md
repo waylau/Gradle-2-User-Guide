@@ -26,9 +26,16 @@ Gradle 的发布包被打包成 ZIP。完整的发布包含:
 
 添加 `GRADLE_HOME/bin` 到你的 path 环境变量
 
+![](http://99btgc01.info/uploads/2014/12/gradle01.jpg)
+
+![](http://99btgc01.info/uploads/2014/12/gradle02.jpg)
+
+
 ##4.5. Running and testing your installation 运行和测试安装
 
 通过 `gradle` 命令运行 Gradle。`gradle -v` 用来查看安装是否成功。输出 	Gradle 的版本信息和本地变量配置信息	 (Groovy, JVM version, OS, 等)。Gradle 显示的版本信息应该和你下载的匹配
+
+![](http://99btgc01.info/uploads/2014/12/gradle03.jpg)
 
 ##4.6. JVM options 虚拟机选项
 
