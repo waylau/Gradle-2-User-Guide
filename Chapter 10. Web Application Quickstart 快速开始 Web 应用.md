@@ -33,6 +33,10 @@ build.gradle
 
 TODO:url,端口,以及源文件位置都可以在脚本中进行指定修改并重载。
 
+*Groovy web 应用*
+
+*在一个项目中你可以采用多个插件。比如你可以在 web 项目中同时使用War 插件和 Groovy 插件来构建基于 web 应用的 Groovy。适当的 Groovy 库将被添加到 WAR 的文件中。*
+
 ##10.3. Summary 总结
 
 了解更多关于 War 插件 和 Jetty 插件的请参阅[Chapter 26. The War Plugin 关于 War 插件](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%2026.%20The%20War%20Plugin%20%E5%85%B3%E4%BA%8E%20War%20%E6%8F%92%E4%BB%B6.md)以及 [Chapter 28. The Jetty Plugin 关于 Jetty 插件](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%2028.%20The%20Jetty%20Plugin%20%E5%85%B3%E4%BA%8E%20Jetty%20%E6%8F%92%E4%BB%B6.md)。你可以在[https://github.com/waylau/Gradle-2-User-Guide-Demos](https://github.com/waylau/Gradle-2-User-Guide-Demos) 中 webApplication 下找到更多示例.
