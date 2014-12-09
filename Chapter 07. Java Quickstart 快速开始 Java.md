@@ -91,7 +91,7 @@ build.gradle
 	}
 
 
-详见[Chapter 8. Dependency Management Basics 依赖管理的基础知识](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%208.%20Dependency%20Management%20Basics%20%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md) 
+详见[Chapter 8. Dependency Management Basics 依赖管理的基础知识](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%2008.%20Dependency%20Management%20Basics%20%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md) 
 
 ###7.2.3. Customizing the project 自定义 项目
 
@@ -297,4 +297,4 @@ api/build.gradle
 
 你可以查看更多关于  Java 插件 ，见[Chapter 23. The Java Plugin 关于 Java 插件](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%2023.%20The%20Java%20Plugin%20%E5%85%B3%E4%BA%8E%20Java%20%E6%8F%92%E4%BB%B6.md)。也可以在 [https://github.com/waylau/Gradle-2-User-Guide-Demos](https://github.com/waylau/Gradle-2-User-Guide-Demos) 中 java 目录下，看到更多 Java 的示例
 
-继续 [Chapter 8. Dependency Management Basics 依赖管理的基础知识](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%208.%20Dependency%20Management%20Basics%20%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
+继续 [Chapter 8. Dependency Management Basics 依赖管理的基础知识](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%2008.%20Dependency%20Management%20Basics%20%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
