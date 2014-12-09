@@ -430,7 +430,7 @@ build.gradle
 
 本章，我们大概浏览了下 task ,但这不是 task 的全部，可以详见[Chapter 15. More about Tasks 更多关于任务](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%2015.%20More%20about%20Tasks%20%E6%9B%B4%E5%A4%9A%E5%85%B3%E4%BA%8E%E4%BB%BB%E5%8A%A1.md)
 
-另外，继续教程 [Chapter 7. Java Quickstart 快速开始 Java](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%207.%20Java%20Quickstart%20%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B%20Java.md) 和 [Chapter 8. Dependency Management Basics 依赖管理的基础知识.md](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%208.%20Dependency%20Management%20Basics%20%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
+另外，继续教程 [Chapter 7. Java Quickstart 快速开始 Java](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%2007.%20Java%20Quickstart%20%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B%20Java.md) 和 [Chapter 8. Dependency Management Basics 依赖管理的基础知识.md](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%2008.%20Dependency%20Management%20Basics%20%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 
 
 
