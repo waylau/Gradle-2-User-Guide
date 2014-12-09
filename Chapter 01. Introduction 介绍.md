@@ -13,7 +13,7 @@ Gradle 为Java（JVM）世界提供快速构建的工具。提供如下功能：
 * Groovy 为构建使用脚本
 * 一个丰富的域模型描述你的构建
 
-在[Chapter 2. Overview 总览](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%202.%20Overview%20%E6%80%BB%E8%A7%88.md) 可以看到更多 Gradle 的概况。后面也有更多[教程](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%203.%20Tutorials%20%E6%95%99%E7%A8%8B.md)再等着你。
+在[Chapter 2. Overview 总览](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%2002.%20Overview%20%E6%80%BB%E8%A7%88.md) 可以看到更多 Gradle 的概况。后面也有更多[教程](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%2003.%20Tutorials%20%E6%95%99%E7%A8%8B.md)再等着你。
 
 ## 1.1. About this user guide 关于本用户指南
 本指南如同 Gradle 一样不断的再更新，如有勘误或者改正之处，请给本指南更多建议，可以访问[Gradle web site](http://www.gradle.org/contribute)
