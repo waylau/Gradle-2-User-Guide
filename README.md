@@ -11,3 +11,12 @@ Gradle 最新版本是 2.2.1 （发布于 2014-11-24）。文本用到的所有�
 
 
 利用业余时间对此进行翻译，并在原文的基础上，插入配图，图文并茂方便用户理解。如有勘误欢迎指正，[点此](https://github.com/waylau/Gradle-2-User-Guide/issues)提问。如有兴趣，也可以参与到本翻译工作中来 :)
+
+
+###Contact:
+
+* Blog:[www.waylau.com](http://www.waylau.com)
+* Gmail: [waylau521@gmail.com](mailto:waylau521@gmail.com)
+* Weibo: [waylau521](http://weibo.com/waylau521)
+* Twitter: [waylau521](https://twitter.com/waylau521)
+* Github : [waylau](https://github.com/waylau)
