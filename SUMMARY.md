@@ -14,4 +14,5 @@ This is the summary of my book.
 * [Chapter 10. Web Application Quickstart 快速开始 Web 应用](Chapter 10. Web Application Quickstart 快速开始 Web 应用.md)
 * [Chapter 11. Using the Gradle Command-Line 使用 Gradle 命令行](Chapter 11. Using the Gradle Command-Line 使用 Gradle 命令行.md)
 * [Chapter 12. Using the Gradle Graphical User Interface 使用 Gradle 图形化用户界面](Chapter 12. Using the Gradle Graphical User Interface 使用 Gradle 图形化用户界面.md)
-
+* [Chapter 13. Writing Build Scripts 编写构建脚本](Chapter 13. Writing Build Scripts 编写构建脚本.md)
+* [Chapter 14. Tutorial - 'This and That' 教程-这个那个](Chapter 14. Tutorial - 'This and That' 教程-这个那个.md)
