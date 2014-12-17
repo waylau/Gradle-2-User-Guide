@@ -16,3 +16,4 @@ This is the summary of my book.
 * [Chapter 12. Using the Gradle Graphical User Interface 使用 Gradle 图形化用户界面](Chapter 12. Using the Gradle Graphical User Interface 使用 Gradle 图形化用户界面.md)
 * [Chapter 13. Writing Build Scripts 编写构建脚本](Chapter 13. Writing Build Scripts 编写构建脚本.md)
 * [Chapter 14. Tutorial - 'This and That' 教程-这个那个](Chapter 14. Tutorial - 'This and That' 教程-这个那个.md)
+* [Chapter 15. More about Tasks 更多关于任务](Chapter 15. More about Tasks 更多关于任务.md)
