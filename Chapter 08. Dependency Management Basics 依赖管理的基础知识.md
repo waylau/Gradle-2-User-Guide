@@ -38,13 +38,13 @@ build.gradle
 	    testCompile group: 'junit', name: 'junit', version: '4.+'
 	}
 
-这个脚本说明了几个事。首先项目需要 Hibernate core 3.6.7.Final  版本来编译。其中隐含的意思是，Hibernate core 和 他的依赖在运行时是需要的。其次，需要  junit >= 4.0 本班在测试时需要编译。同时 告诉 Gradle 依赖在 Maven central 库 中找。下面详述
+这个脚本说明了几个事。首先项目需要 Hibernate core 3.6.7.Final  版本来编译。其中隐含的意思是，Hibernate core 和 他的依赖在运行时是需要的。其次，需要  junit >= 4.0 版本在测试时需要编译。同时 告诉 Gradle 依赖在 Maven central 库 中找。下面详述
 
 ##8.3. Dependency configurations 项目配置
 
 一个配置是一个简单的命名依赖的集合。我们称它为依赖配置。你可以用它们来声明项目的外部依赖。正如我们将看到的，他们还用声明项目的 发布。
 
-Java 配置定义了一些标准的配置，这些配置在Java 插件使用的 classpath 中，下面是一些列表。详见[Chapter 23. The Java Plugin 关于 Java 插件](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%2023.%20The%20Java%20Plugin%20%E5%85%B3%E4%BA%8E%20Java%20%E6%8F%92%E4%BB%B6.md) 中  Table 23.5, “Java plugin - dependency configurations“
+Java 配置定义了一些标准的配置，这些配置在Java 插件使用的 classpath 中，下面是一些列表。详见[Chapter 23. The Java Plugin 关于 Java 插件](Chapter 23. The Java Plugin 关于 Java 插件.md) 中  Table 23.5, “Java plugin - dependency configurations“
 
 **compile**
 
@@ -62,7 +62,7 @@ Java 配置定义了一些标准的配置，这些配置在Java 插件使用的 
 
 运行测试所需的依赖。默认情况下，还包括 编译，运行时和测试编译的依赖。
 
-各种插件添加进一步的标准配置。您也可以定义自己的自定义配置，使用你的建构建。请参见[Chapter 51. Dependency Manageme](https://github.com/waylau/Gradle-2-User-Guide/blob/master/Chapter%2051.%20Dependency%20Management%20%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86.md) Section 51.3, “Dependency configurations” 关于更多自定义依赖配置。
+各种插件添加进一步的标准配置。您也可以定义自己的自定义配置，使用你的建构建。请参见[Chapter 51. Dependency Manageme](Chapter 51. Dependency Management 依赖管理.md) Section 51.3, “Dependency configurations” 关于更多自定义依赖配置。
 
 
 
