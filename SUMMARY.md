@@ -17,3 +17,7 @@ This is the summary of my book.
 * [Chapter 13. Writing Build Scripts 编写构建脚本](Chapter 13. Writing Build Scripts 编写构建脚本.md)
 * [Chapter 14. Tutorial - 'This and That' 教程-这个那个](Chapter 14. Tutorial - 'This and That' 教程-这个那个.md)
 * [Chapter 15. More about Tasks 更多关于任务](Chapter 15. More about Tasks 更多关于任务.md)
+* [Chapter 16. Working With Files 跟文件工作](Chapter 16. Working With Files 跟文件工作.md)
+* [Chapter 17. Using Ant from Gradle 从 Gradle 使用 Ant](Chapter 17. Using Ant from Gradle 从 Gradle 使用 Ant.md)
+* [Chapter 18. Logging 日志.md](Chapter 18. Logging 日志.md)
+* [Chapter 19. The Gradle Daemon 守护进程](Chapter 19. The Gradle Daemon 守护进程.md)
