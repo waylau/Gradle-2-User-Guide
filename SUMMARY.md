@@ -21,3 +21,6 @@ This is the summary of my book.
 * [Chapter 17. Using Ant from Gradle 从 Gradle 使用 Ant](Chapter 17. Using Ant from Gradle 从 Gradle 使用 Ant.md)
 * [Chapter 18. Logging 日志.md](Chapter 18. Logging 日志.md)
 * [Chapter 19. The Gradle Daemon 守护进程](Chapter 19. The Gradle Daemon 守护进程.md)
+* [Chapter 20. The Build Environment 构建环境](Chapter 20. The Build Environment 构建环境.md)
+* [Chapter 21. Gradle Plugins 插件](Chapter 21. Gradle Plugins 插件.md)
+* [Chapter 22. Standard Gradle plugins 标准 Gradle 插件](Chapter 22. Standard Gradle plugins 标准 Gradle 插件.md)
