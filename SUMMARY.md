@@ -24,3 +24,4 @@ This is the summary of my book.
 * [Chapter 20. The Build Environment 构建环境](Chapter 20. The Build Environment 构建环境.md)
 * [Chapter 21. Gradle Plugins 插件](Chapter 21. Gradle Plugins 插件.md)
 * [Chapter 22. Standard Gradle plugins 标准 Gradle 插件](Chapter 22. Standard Gradle plugins 标准 Gradle 插件.md)
+* [Appendix E. Existing IDE Support and how to cope without it 支持的 IDE 以及如何应对没有它](Appendix E. Existing IDE Support and how to cope without it 支持的 IDE 以及如何应对没有它.md)
