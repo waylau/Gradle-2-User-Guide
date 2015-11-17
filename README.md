@@ -1,7 +1,8 @@
 Gradle-2-User-Guide
 ===================
 
-![](http://99btgc01.info/uploads/2014/12/gradle.jpg)
+![](https://camo.githubusercontent.com/f77deb50e0f12240710bdb0e5f266647a1ff4ce7/68747470733a2f2f677261646c652e6f72672f77702d636f6e74656e742f75706c6f6164732f323031352f30332f477261646c654c6f676f5265672e706e67)
+![](http://gradle.com/images/gradle-logo-horizontal.svg)
 
 Chinese translation of [Gradle 2 User Guide](http://www.gradle.org/docs/current/userguide/userguide.html) . The latest release of Gradle is 2.9, released on 14th Nov 2015.You can also see the demos of the guide [here](https://github.com/waylau/Gradle-2-User-Guide-Demos).There is a GitBook version of the book: [http://waylau.gitbooks.io/gradle-2-user-guide/](http://waylau.gitbooks.io/gradle-2-user-guide/).
 Let's [READ](SUMMARY.md)!
